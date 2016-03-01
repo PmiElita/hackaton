@@ -1,4 +1,4 @@
-package com.ekita.hackaton.controller;
+package com.elita.hackaton.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

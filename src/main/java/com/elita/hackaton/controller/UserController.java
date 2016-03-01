@@ -1,4 +1,4 @@
-package com.ekita.hackaton.controller;
+package com.elita.hackaton.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestBody;
